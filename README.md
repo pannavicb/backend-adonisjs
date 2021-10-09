@@ -1,5 +1,8 @@
 # backend-adonisjs
 
-This is an web API application of sport field ticketing.
+This is a web API application of sport field ticketing.
 
-the documentation can be seen in MQ.7Og_oLprXb6KwBFse6UvlgmHgNuygnqpwf478yaXOxous6EoP6ZiYRF3WvI1
+The project is node js based, developed using Adonis js framework.
+
+The API is deployed in http://backend-adonisjs.herokuapp.com/
+The API documentation can be seen in https://backend-adonisjs.herokuapp.com/docs/index.html
