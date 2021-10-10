@@ -1,6 +1,6 @@
 # backend-adonisjs
 
-This is a web API application for sport field booking. This project only contains the backend-side without the front-end/view. The API is deployed on http://backend-adonisjs.herokuapp.com/. The API documentation can be seen on https://backend-adonisjs.herokuapp.com/docs/index.html. The documentation is generated using swagger.
+This is a web API application for sports field booking. This project only contains the backend side without the frontend/view. The API is deployed on http://backend-adonisjs.herokuapp.com/. The API documentation can be seen on https://backend-adonisjs.herokuapp.com/docs/index.html. The documentation is generated using swagger.
 
 This project is node js based, developed using AdonisJS framework. The development of AdonisJS framework is run on typescript environment. In the production, the code is converted to javascript. 
 
