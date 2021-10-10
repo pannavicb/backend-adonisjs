@@ -9,4 +9,4 @@ This project operates RESTful API. Basic CRUD (Create, Read, Update, Delete) ope
 Several common backend features are implemented: CRUD, authentication (bearer token), sending mail (for OTP verification), etc.
 
 The Entity Relationship Diagram (ERD) can be seen in the following figure:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/mukhlishga/backend-adonisjs/blob/main/erd.png?raw=true)
